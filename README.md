@@ -22,7 +22,7 @@ The data for this project is sourced from the Pilgrim's Office in Santiago, whic
 
 - Python 3.8 or newer
 - Jupyter Notebook
-- Tableau Public (or another BI software of your choice)
+- Power BI (or another BI software of your choice)
 
 ## Installation
 
@@ -32,6 +32,15 @@ Clone the repository and run the notebooks
 ## **Data Updates**
 
 Since the API data is only available up to April 2023, no further automated updates will be conducted. Future data updates will need to be processed manually.
+
+## **Camino de Santiago - Analyze the Pilgrimage**
+created in **Power BI**
+
+![Camino de Santiago](./img/image1.png)
+![Camino de Santiago](./img/image2.png)
+![Camino de Santiago](./img/image3.png)
+![Camino de Santiago](./img/image4.png)
+![Camino de Santiago](./img/image5.png)
 
 ## **Contributing**
 
